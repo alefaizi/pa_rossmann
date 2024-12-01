@@ -1,0 +1,26 @@
+# Ambiente virtual do Conda
+/env/
+/venv/
+/anaconda3/
+/miniconda3/
+
+# Diretórios do VSCode
+.vscode/
+
+# Arquivos de configuração do Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Arquivos do Jupyter
+.ipynb_checkpoints/
+
+# Arquivos do sistema operacional (exemplo do Windows)
+Thumbs.db
+.DS_Store
+
+# Outros arquivos temporários
+*.log
+*.bak
+*.swp
