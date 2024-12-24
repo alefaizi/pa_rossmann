@@ -24,3 +24,6 @@ Thumbs.db
 *.log
 *.bak
 *.swp
+
+# Arquivo de configuração com token
+.env
